@@ -1,0 +1,6 @@
+big = max(55, -29, 102, -300, 76, 15)
+small = min(55, -29, 102, -300, 76, 15)
+magnitude = abs(small)
+print("The range of this data is", big - small)
+print("powers of 2: ", pow(0, 2), pow(1, 2), pow(2, 2), pow(2, 3))
+print("Unrounded:", 70/25, "and rounded: ", round(70/25))  
