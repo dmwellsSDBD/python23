@@ -2,7 +2,7 @@
 Program: investment.py
 Author: Mr. Wells
 Purpose: Compute an investment report.
-Last Update: 10/23/23
+Last Update: 9/16/2024
 
 1. The inputs are:
     Starting investment amount - startBalance
@@ -18,7 +18,7 @@ Last Update: 10/23/23
 
 # Accept the user inputs
 startBalance = float(input("Enter the investment amount: "))
-years = int(input("Enter the number of years: "))
+# years = int(input("Enter the number of years: "))
 rate = int(input("Enter the rate as a %: "))
 
 # Convert the rate to a decimal number
